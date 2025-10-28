@@ -1,10 +1,10 @@
-# 👋 Hi, I'm *Shivam Vishwakarma*
-### 💻 UI/UX Designer | Full-Stack Web Developer | Tech Enthusiast
+# 👋 Hi, I'm *Vishal Savita*
+###  Full-Stack Web Developer | Tech Enthusiast
 
 ---
 
 ## 💫 About Me  
-🎨 *Creative UI/UX Designer* and *Full-Stack Developer* passionate about crafting modern, meaningful, and user-centric digital experiences.  
+🎨 *Full-Stack Developer* passionate about crafting modern, meaningful, and user-centric digital experiences.  
 💡 I blend design aesthetics with coding logic to build apps that are both *beautiful* and *functional*.  
 🚀 Always exploring the *latest technologies*, design systems, and interactive UI patterns to stay ahead of the curve.  
 🌱 Currently enhancing my skills in *React, Next.js, Flutter, and Node.js* for scalable web & mobile development.  
@@ -34,9 +34,6 @@
 ### ⚛ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
@@ -55,7 +52,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23F5820D.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -67,11 +63,9 @@
 ---
 
 ### 🧰 Tools & Design
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ---
 
